@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    background-color: lightblue;
+}
+
+h1 {
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+
+.recipe {
+    text-decoration: none;
+}
